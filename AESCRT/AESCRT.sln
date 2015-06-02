@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESCRT", "AESCRT\AESCRT.csproj", "{DBFF598F-A495-40B0-8233-55DAF45B5106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneTimePad", "OneTimePad\OneTimePad.csproj", "{AF86DFC9-D957-49FD-B1EB-84537AEDA70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256", "SHA256\SHA256.csproj", "{595C7D51-B787-4FEC-9920-9637329F959F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaddingOracle", "PaddingOracle\PaddingOracle.csproj", "{2A33A680-92E6-4AFE-96C4-7D4E0E5EC7CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscreteLogModulo", "DiscreteLogModulo\DiscreteLogModulo.csproj", "{AAFD3C88-88F2-49FC-B59C-4383B6337584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA\RSA.csproj", "{65C44B86-D2CE-4F87-97D1-5CD593E25799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFF598F-A495-40B0-8233-55DAF45B5106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFF598F-A495-40B0-8233-55DAF45B5106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFF598F-A495-40B0-8233-55DAF45B5106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFF598F-A495-40B0-8233-55DAF45B5106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF86DFC9-D957-49FD-B1EB-84537AEDA70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF86DFC9-D957-49FD-B1EB-84537AEDA70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF86DFC9-D957-49FD-B1EB-84537AEDA70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF86DFC9-D957-49FD-B1EB-84537AEDA70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595C7D51-B787-4FEC-9920-9637329F959F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595C7D51-B787-4FEC-9920-9637329F959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595C7D51-B787-4FEC-9920-9637329F959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595C7D51-B787-4FEC-9920-9637329F959F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A33A680-92E6-4AFE-96C4-7D4E0E5EC7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A33A680-92E6-4AFE-96C4-7D4E0E5EC7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A33A680-92E6-4AFE-96C4-7D4E0E5EC7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A33A680-92E6-4AFE-96C4-7D4E0E5EC7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFD3C88-88F2-49FC-B59C-4383B6337584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFD3C88-88F2-49FC-B59C-4383B6337584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFD3C88-88F2-49FC-B59C-4383B6337584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFD3C88-88F2-49FC-B59C-4383B6337584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C44B86-D2CE-4F87-97D1-5CD593E25799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C44B86-D2CE-4F87-97D1-5CD593E25799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C44B86-D2CE-4F87-97D1-5CD593E25799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C44B86-D2CE-4F87-97D1-5CD593E25799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
